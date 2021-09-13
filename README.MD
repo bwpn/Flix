@@ -23,4 +23,8 @@ Time spent: **1** hour spent in total
 
 ### App Walkthrough GIF
 
+#### On my personal iPhone XR
 <img src='https://github.com/bwpn/Flix/blob/main/Walkthrough1.gif?raw=true' title='Video Walkthrough' width='320px' alt='Video Walkthrough' />
+
+#### On an iPhone SE
+<img src='https://github.com/bwpn/Flix/blob/main/SE%20Walkthrough.gif?raw=true' title='Video Walkthrough' width='320px' alt='Video Walkthrough' />
